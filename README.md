@@ -23,11 +23,11 @@ Sign in to the AWS Management Console using your credentials.
 ## Step 3: Locate the EC2 Instance
 
 - In the left-hand navigation pane, click **Instances**
-- 
+ 
 - Locate the instance named **`xfusion-ec2`**
-- 
+
 - Select the instance by checking the box next to it
-- 
+  
 ![Select EC2 Instance](images/03-locate-ec2-instance.png)
 
 ## Step 4: Open Termination Protection Settings
@@ -43,7 +43,7 @@ Sign in to the AWS Management Console using your credentials.
 ## Step 6: Enable Termination Protection
 
 - Choose **Enable**
-- 
+  
 - Click **Save**
   
 ![Enable Termination Protection](images/05-enable-termination-protection.png)
