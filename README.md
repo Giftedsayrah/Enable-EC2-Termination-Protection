@@ -15,9 +15,9 @@ Sign in to the AWS Management Console using your credentials.
 ## Step 2: Open the EC2 Dashboard
 
 - From the **Services** menu, search for **EC2**
-- 
+  
 - Click on **EC2** to open the EC2 Dashboard
-- 
+ 
 ![EC2 Dashboard](images/02-ec2-dashboard.png)
 
 ## Step 3: Locate the EC2 Instance
